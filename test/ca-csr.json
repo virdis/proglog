@@ -1,16 +1,16 @@
 {
-  "CN": "My Awesome CA",
-  "key": {
-    "algo": "rsa",
-    "size": 2048
-  },
+    "CN": "My Awesome CA",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
     "names": [
-       {
-         "C": "US",
-         "L": "San Francisco",
-         "O": "My Awesome Virdis Company",
-         "OU": "CA Virdi Services",
-         "ST": "California"
-       }
+        {
+            "C": "CA",
+            "L": "ON",
+            "ST": "Toronto",
+            "O": "My Awesome Company",
+            "OU": "CA Services"
+        }
     ]
 }
